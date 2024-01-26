@@ -14,11 +14,11 @@ li::before {
     content: "(antes) ";
 }
   
-  li::after {
+li::after {
     content: " (depois)";
 }
 
-  li:first-child {
+li:first-child {
     color: rgb(255, 174, 0);
 }
 
